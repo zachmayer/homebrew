@@ -3,8 +3,8 @@ require "formula"
 class VowpalWabbit < Formula
   homepage "https://github.com/JohnLangford/vowpal_wabbit"
   head "https://github.com/JohnLangford/vowpal_wabbit.git"
-  url "https://github.com/JohnLangford/vowpal_wabbit/archive/7.7.tar.gz"
-  sha1 "d248bc848ad3919ad0c5002045a83aa29d83e6fd"
+  url "https://github.com/JohnLangford/vowpal_wabbit/archive/7.10.tar.gz"
+  sha1 "66f476926c760d5b604057796f7e19c52d7702a8"
 
   bottle do
     cellar :any
